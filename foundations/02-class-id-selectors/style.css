@@ -1,0 +1,19 @@
+p:nth-child(odd) {
+    background-color: rgb(255, 105, 130);
+    font-family: Verdana, Dejavu Sans, Geneva, Tahoma, sans-serif;
+}
+
+#div2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.p3 {
+    font-size: 24px;
+}
+
+#div4 {
+    background-color: rgb(98, 189, 98);
+    font-size: 24px;
+    font-weight: bold;
+}
